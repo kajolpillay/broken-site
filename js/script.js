@@ -13,3 +13,6 @@ incr = 0;
 document.getElementById("slider").src = imageArray[incr] + ".png";
 } 1000);
 }imageSlideShow();
+
+
+HI
